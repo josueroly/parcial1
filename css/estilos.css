@@ -1,0 +1,34 @@
+body{
+    
+    font-family: sans-serif;
+}
+
+#portada, #contra{
+    text-align: center;
+    background-color: #fff;
+    padding: 90px;
+    height: 560px;
+}
+
+.pagina{
+    background-color:skyblue;
+    padding: 30px;
+    height: 540px;
+}
+
+.b-wrap .b-counter{
+    background-color: #3c5c6a;
+    margin-left: 40%;
+    margin-right: 40%;
+    color: #fff;
+}
+#wrapper{
+  
+}
+#gotopage{
+    text-align: center;
+}
+#in_go{
+    width: 40%;
+    margin-right: 10px;
+}
